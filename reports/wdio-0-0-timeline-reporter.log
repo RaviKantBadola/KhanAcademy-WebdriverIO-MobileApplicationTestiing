@@ -1,0 +1,208 @@
+{
+  "start": "2023-05-26T16:56:13.003Z",
+  "end": "2023-05-26T17:00:59.691Z",
+  "capabilities": {
+    "platform": "LINUX",
+    "webStorageEnabled": false,
+    "takesScreenshot": true,
+    "javascriptEnabled": true,
+    "databaseEnabled": false,
+    "networkConnectionEnabled": true,
+    "locationContextEnabled": false,
+    "warnings": {},
+    "desired": {
+      "platformName": "Android",
+      "deviceName": "Ravi",
+      "automationName": "UIAutomator2",
+      "app": "E:\\webdriverIO-Project\\App\\Android\\khan-academy-7-9-1.apk"
+    },
+    "platformName": "Android",
+    "deviceName": "emulator-5554",
+    "automationName": "UIAutomator2",
+    "app": "E:\\webdriverIO-Project\\App\\Android\\khan-academy-7-9-1.apk",
+    "deviceUDID": "emulator-5554",
+    "appPackage": "org.khanacademy.android",
+    "deviceApiLevel": 26,
+    "platformVersion": "8.0.0",
+    "deviceScreenSize": "1080x2220",
+    "deviceScreenDensity": 440,
+    "deviceModel": "Android SDK built for x86",
+    "deviceManufacturer": "Google",
+    "pixelRatio": 2.75,
+    "statBarHeight": 66,
+    "viewportRect": {
+      "left": 0,
+      "top": 66,
+      "width": 1080,
+      "height": 2022
+    },
+    "sessionId": "5d8a9483-8b81-4490-b8ea-b72d4d3ce257"
+  },
+  "host": "127.0.0.1",
+  "port": 4723,
+  "baseUrl": "http://localhost",
+  "framework": "mocha",
+  "duration": 286688,
+  "suites": [
+    {
+      "title": "Mobile App Testing",
+      "duration": 286506,
+      "start": "2023-05-26T16:56:13.007Z",
+      "end": "2023-05-26T17:00:59.513Z",
+      "tests": [
+        {
+          "title": "Explore_Bookmarks",
+          "start": "2023-05-26T16:56:13.007Z",
+          "end": "2023-05-26T16:57:05.192Z",
+          "duration": 52185,
+          "state": "passed",
+          "screenshots": [
+            "E:\\webdriverIO-Project\\reports\\file-1685120174262.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120177216.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120178134.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120178502.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120192897.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120193142.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120199563.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120199792.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120210951.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120211170.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120221417.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120221619.jpeg"
+          ]
+        },
+        {
+          "title": "Verifying_Deleting_Bookmarks",
+          "start": "2023-05-26T16:57:05.194Z",
+          "end": "2023-05-26T16:57:23.544Z",
+          "duration": 18350,
+          "state": "passed",
+          "screenshots": [
+            "E:\\webdriverIO-Project\\reports\\file-1685120225386.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120232366.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120232586.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120234441.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120234638.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120236530.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120236735.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120238610.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120238817.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120240698.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120240904.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120242770.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120242959.jpeg"
+          ]
+        },
+        {
+          "title": "Video_recentLesson",
+          "start": "2023-05-26T16:57:23.545Z",
+          "end": "2023-05-26T16:58:09.613Z",
+          "duration": 46068,
+          "state": "passed",
+          "screenshots": [
+            "E:\\webdriverIO-Project\\reports\\file-1685120243741.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120243993.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120244188.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120244373.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120244857.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120287575.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120287915.jpeg"
+          ]
+        },
+        {
+          "title": "Setting",
+          "start": "2023-05-26T16:58:09.613Z",
+          "end": "2023-05-26T16:58:23.217Z",
+          "duration": 13604,
+          "state": "passed",
+          "screenshots": [
+            "E:\\webdriverIO-Project\\reports\\file-1685120289936.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120290346.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120290566.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120291065.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120291264.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120291738.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120291933.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120292368.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120292575.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120293672.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120293950.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120294611.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120294802.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120295294.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120295489.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120297292.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120300014.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120300730.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120300958.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120301504.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120301702.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120302206.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120302409.jpeg"
+          ]
+        },
+        {
+          "title": "Arts Humanities",
+          "start": "2023-05-26T16:58:23.217Z",
+          "end": "2023-05-26T16:59:47.860Z",
+          "duration": 84643,
+          "state": "passed",
+          "screenshots": [
+            "E:\\webdriverIO-Project\\reports\\file-1685120303522.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120324222.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120324461.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120337063.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120337361.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120376170.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120376397.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120380721.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120380954.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120384164.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120384348.jpeg"
+          ]
+        },
+        {
+          "title": "App switch",
+          "start": "2023-05-26T16:59:47.861Z",
+          "end": "2023-05-26T17:00:55.507Z",
+          "duration": 67646,
+          "state": "passed",
+          "screenshots": [
+            "E:\\webdriverIO-Project\\reports\\file-1685120388139.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120391841.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120397832.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120402047.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120402279.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120409879.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120410110.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120411130.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120411451.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120443313.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120443739.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120444692.jpeg",
+            "E:\\webdriverIO-Project\\reports\\file-1685120445390.jpeg"
+          ]
+        },
+        {
+          "title": "Closing",
+          "start": "2023-05-26T17:00:55.508Z",
+          "end": "2023-05-26T17:00:59.512Z",
+          "duration": 4004,
+          "state": "passed",
+          "screenshots": [
+            "E:\\webdriverIO-Project\\reports\\file-1685120455790.jpeg"
+          ]
+        }
+      ],
+      "hooks": []
+    }
+  ],
+  "specs": [
+    "file:///E:/webdriverIO-Project/KhanAcademy/Bookmark.js"
+  ],
+  "state": {
+    "passed": 7,
+    "failed": 0,
+    "skipped": 0
+  }
+}
